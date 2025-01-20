@@ -30,7 +30,7 @@ Ensure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/swapnildubey29/chatcord.git
-   cd chatcord
+   cd main
    ```
 
 2. **Install Dependencies:**
